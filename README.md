@@ -77,6 +77,8 @@ This homework is graded based on the following criteria:
 
 You are required to submit the following for review:
 
-* The URL of the deployed application.
+* The URL of the deployed application:
+* https://danolmedo.github.io/password_generator_homework/
 
-* The URL of the GitHub repository, with a unique name and a readme describing the project.
+* The URL of the GitHub repository, with a unique name and a readme describing the project:
+* https://github.com/DanOlmedo/password_generator_homework
